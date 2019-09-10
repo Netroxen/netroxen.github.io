@@ -148,11 +148,11 @@ projects:
       Open Source is awesome! What better way of consuming all the amazing projects out there, than to give back or publicize them in some way!
 
     assignments:
-      - title: PyConWeb 2018
+      - title: PyConWeb 2018 (Blog Post)
         link: "https://www.operun.de/blog/pyconweb-2018"
         tagline: "A writeup of the 2018 PyConWeb conference."
 
-      - title: PyConWeb 2019
+      - title: PyConWeb 2019 (Blog Post)
         link: "https://www.operun.de/blog/pyconweb-2019"
         tagline: "A writeup of the 2019 PyConWeb conference."
 
@@ -164,9 +164,13 @@ projects:
         link: "https://github.com/collective/plonetheme.tokyo"
         tagline: "A complete redesign and implementation of Bootstrap 4 into Plone."
 
-      - title: Evie CMS
+      - title: Evie CMS (Personal Project)
         link: "https://github.com/Netroxen/evie.cms"
         tagline: "A blazingly fast ASynchronous CMS built on Quart and ZODB."
+
+      - title: Scope Mod A3 (Mod)
+        link: "http://www.armaholic.com/page.php?id=22746"
+        tagline: "An optics pack created for the game Arma 3, the mod was well recieved and featured in various YouTube videos and projects."
 
 skills:
     title: Skills &amp; Proficiency
