@@ -29,20 +29,22 @@ sidebar:
 
     interests:
       - item: Motorcycles
-        link:
+        link: https://www.dropbox.com/s/nctw2q7xgmhea5p/OBY_0738.JPG
 
-      - item: Swimming
-        link:
+      - item: 3D Design
+        link: https://www.artstation.com/netroxen
 
 career-profile:
     title: About
     summary: |
-      Born as a 90's kid into a technological boom, sparked my interest in building computers, overclocking them
-      and actively involving myself in various hardware related forums from an early age.
+      Born as a 90's kid into a technological boom, my interest in building computers, overclocking them
+      and actively involving myself in various design and coding activities sparked my enthusiasm into developing applications.
       
       Now residing in the foot hills of the Alps, having jumped pond from the home of 
       baked beans and toast, England, I find myself pursuing web development in the hopes of making my own small
       mark on the internet highway.
+
+      I would consider myself a friendly and open minded person with great social skills and a willingness to learn new things.
 
 education:
     - degree: Primary
@@ -173,13 +175,13 @@ skills:
       - name: Python
         level: 95%
 
-      - name: Plone 3.x / 5.x
+      - name: Plone
         level: 90%
 
       - name: Flask
         level: 80%
 
-      - name: HTML(5) & CSS(3)
+      - name: HTML5 & CSS
         level: 98%
 
       - name: XML, XSLT, SQL
@@ -188,11 +190,14 @@ skills:
       - name: JavaScript, jQuery
         level: 80%
 
-      - name: PHPTAL, Jinja2, Babel (i18n)
+      - name: PHPTAL, Jinja2
         level: 98%
 
-      - name: YAML, TOML, LESS, Sass / SCSS
+      - name: YAML, TOML
         level: 90%
+
+      - name: LESS, SCSS
+        level: 80%
 
       - name: Ansible
         level: 70%
@@ -212,17 +217,14 @@ skills:
       - name: SCRUM
         level: 90%
 
-      - name: RedMine, Ubuntu / Debian Administration
+      - name: RedMine, Linux Administration
         level: 80%
 
       - name: Unit, Integration, Acceptance and Functional Testing Concepts
         level: 90%
 
-      - name: Apache2 Setup / Administration
+      - name: Apache2 Administration
         level: 70%
 
-      - name: LDAP (SLAPD Configurations), React, Drupal Administration
+      - name: LDAP, React, Drupal
         level: 20%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
