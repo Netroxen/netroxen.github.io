@@ -87,42 +87,6 @@ experiences:
         I also partook in various smaller server based excercises to gain some initial knowledge
         in the area of Linux administration.
 
-    - role: Performing Artist
-      time: 2008 - 2010
-      company: Sylvia Young Theatre School
-      details: |
-        During my time at Sylvia Young, I learnt the basics of stage perfomance / improvisation.
-
-    - role: Conservationist
-      time: '2009'
-      company: Cherry Wood Project
-      details: |
-        Located in the small southern town of Bath in the United Kingdom, the CWP advocates
-        the preservation and development of local forests and agriculture.
-
-        During my time there, I assisted in forest management, roof building and repairing tools.
-
-    - role: Salesman
-      time: 2012 - 2013
-      company: St. Marcus Fine Foods
-      details: |
-        As my first paid job, St. Marcus offered me the opportunity to work front of house, serving and dealing with customers.
-        Due to the small nature of the business, I had to adapt to different roles - from sales to logistics and even as a butcher.
-
-    - role: Award
-      time: Feb 2013
-      company: Jack Petchey Foundation
-      details: |
-        In February 2013, I received a Jack Petchey award for achievements in and out of school.
-        I was presented to the mayor of Kensington & Chelsea to recieve the award.
-
-    - role: Extra
-      time: '2013'
-      company: Coca Cola - Wimbledon Film Studios
-      details: |
-        At the beginning of 2013, I contributed to the production of a viral video for Coca Cola.
-        I spent a day at the Wimbledon Film Studios where I also had a short speaking role.
-
     - role: Full-Stack Developer
       time: 2015 - 2019
       company: operun GmbH
@@ -133,7 +97,7 @@ experiences:
         and blogger.
 
 projects:
-    title: Contributions & Projects
+    title: Contributions &amp; Projects
     intro: >
       Open Source is awesome, that's why I like to contribute and work on my own projects.
 
@@ -222,3 +186,40 @@ skills:
 
       - name: LDAP, React, Drupal
         level: 20%
+
+misc:
+    - role: Performing Artist
+      time: 2008 - 2010
+      company: Sylvia Young Theatre School
+      details: |
+        During my time at Sylvia Young, I learnt the basics of stage perfomance / improvisation.
+
+    - role: Conservationist
+      time: '2009'
+      company: Cherry Wood Project
+      details: |
+        Located in the small southern town of Bath in the United Kingdom, the CWP advocates
+        the preservation and development of local forests and agriculture.
+
+        During my time there, I assisted in forest management, roof building and repairing tools.
+
+    - role: Salesman
+      time: 2012 - 2013
+      company: St. Marcus Fine Foods
+      details: |
+        As my first paid job, St. Marcus offered me the opportunity to work front of house, serving and dealing with customers.
+        Due to the small nature of the business, I had to adapt to different roles - from sales to logistics and even as a butcher.
+
+    - role: Award
+      time: Feb 2013
+      company: Jack Petchey Foundation
+      details: |
+        In February 2013, I received a Jack Petchey award for achievements in and out of school.
+        I was presented to the mayor of Kensington & Chelsea to recieve the award.
+
+    - role: Extra
+      time: '2013'
+      company: Coca Cola - Wimbledon Film Studios
+      details: |
+        At the beginning of 2013, I contributed to the production of a viral video for Coca Cola.
+        I spent a day at the Wimbledon Film Studios where I also had a short speaking role.
