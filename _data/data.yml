@@ -96,6 +96,13 @@ experiences:
         of Python based web applications using the Plone CMS platform. Other roles include Linux administrator, graphic designer
         and blogger.
 
+awards:
+    - award: Jack Petchey Foundation
+      time: '2013'
+      details: |
+        In February 2013, I received a Jack Petchey award for achievements in and out of school.
+        I was presented to the mayor of Kensington & Chelsea to recieve the award.
+
 projects:
     title: Contributions &amp; Projects
     intro: >
@@ -209,13 +216,6 @@ misc:
       details: |
         As my first paid job, St. Marcus offered me the opportunity to work front of house, serving and dealing with customers.
         Due to the small nature of the business, I had to adapt to different roles - from sales to logistics and even as a butcher.
-
-    - role: Award
-      time: Feb 2013
-      company: Jack Petchey Foundation
-      details: |
-        In February 2013, I received a Jack Petchey award for achievements in and out of school.
-        I was presented to the mayor of Kensington & Chelsea to recieve the award.
 
     - role: Extra
       time: '2013'
