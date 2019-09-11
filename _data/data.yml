@@ -40,23 +40,13 @@ career-profile:
       Born as a 90's kid into a technological boom, my interest in building computers, overclocking them
       and actively involving myself in various design and coding activities sparked my enthusiasm into developing applications.
       
-      Now residing in the foot hills of the Alps, having jumped pond from the home of 
-      baked beans and toast, England, I find myself pursuing web development in the hopes of making my own small
+      Now residing in the foot hills of the Alps, having jumped pond from the home of tea time and chequered trousers,
+      England, I find myself pursuing web development in the hopes of making my own small
       mark on the internet highway.
 
       I would consider myself a friendly and open minded person with great social skills and a willingness to learn new things.
 
 education:
-    - degree: Primary
-      university: Various
-      time: 1998 - 2006
-      details: |
-        I completed my primary education.
-
-        - Andrews’ Endowed School / 1998-2001
-        - St. Mary’s CE Primary School / 2001-2003
-        - St. Vincent's R.C. Primary School / 2006
-
     - degree: GCSE
       university: City of Westminster College
       time: 2010 - 2012
@@ -93,7 +83,7 @@ experiences:
       time: 2007 - 2008
       company: Lemon Computing IT
       details: |
-        During my time at Lemon Computing, I assistant in various office related tasks.
+        During my time at Lemon Computing, I assisted in various office related tasks.
         I also partook in various smaller server based excercises to gain some initial knowledge
         in the area of Linux administration.
 
@@ -112,7 +102,7 @@ experiences:
 
         During my time there, I assisted in forest management, roof building and repairing tools.
 
-    - role: Butcher / Salesman
+    - role: Salesman
       time: 2012 - 2013
       company: St. Marcus Fine Foods
       details: |
@@ -126,7 +116,7 @@ experiences:
         In February 2013, I received a Jack Petchey award for achievements in and out of school.
         I was presented to the mayor of Kensington & Chelsea to recieve the award.
 
-    - role: Extra / Actor
+    - role: Extra
       time: '2013'
       company: Coca Cola - Wimbledon Film Studios
       details: |
