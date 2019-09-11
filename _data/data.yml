@@ -135,7 +135,7 @@ experiences:
 projects:
     title: Contributions & Projects
     intro: >
-      Open Source is awesome! What better way of consuming all the amazing projects out there, than to give back or publicize them in some way!
+      Open Source is awesome, that's why I like to contribute and work on my own projects.
 
     assignments:
       - title: PyConWeb 2018 (Blog Post)
@@ -160,7 +160,7 @@ projects:
 
       - title: Scope Mod A3 (Mod)
         link: "http://www.armaholic.com/page.php?id=22746"
-        tagline: "An optics pack created for the game Arma 3, the mod was well recieved and featured in various YouTube videos and projects."
+        tagline: "A successful mod released for Arma 3 that was featured on multiple YouTube videos and projects."
 
 skills:
     title: Skills &amp; Proficiency
