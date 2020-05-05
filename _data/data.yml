@@ -39,7 +39,7 @@ career-profile:
     summary: |
       Born as a 90's kid into a technological boom, my interest in building computers, overclocking them
       and actively involving myself in various design and coding activities sparked my enthusiasm into developing applications.
-      
+
       Now residing in the foot hills of the Alps, having jumped pond from the home of tea time and chequered trousers,
       England, I find myself pursuing web development in the hopes of making my own small
       mark on the internet highway.
@@ -95,6 +95,12 @@ experiences:
         application development, migration projects and server management. I learnt skills primarily in the deployment
         of Python based web applications using the Plone CMS platform. Other roles include Linux administrator, graphic designer
         and blogger.
+
+    - role: DevOps Engineer
+      time: 2019
+      company: umwerk systems GmbH
+      details: |
+        Taking on the role of developer / administrator, my current roles include cloud administration and micro-app development.
 
 awards:
     - award: Jack Petchey Foundation
