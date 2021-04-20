@@ -8,10 +8,11 @@ sidebar:
     avatar: profile.png
 
     # Sidebar Links
-    email: jesse.stippel@gmail.com
+    email: jesse@skyeweb.de
     phone:
     website:
-    linkedin: jstippel
+    linkedin:
+    xing: Jesse_Stippel
     github: Netroxen
     gitlab:
     bitbucket:
@@ -28,23 +29,17 @@ sidebar:
         level: Intermediate
 
     interests:
-      - item: Motorcycles
-        link: https://www.dropbox.com/s/nctw2q7xgmhea5p/OBY_0738.JPG
-
-      - item: 3D Design
+      - item: 3D Modelling
         link: https://www.artstation.com/netroxen
 
 career-profile:
     title: About
     summary: |
       Born as a 90's kid into a technological boom, my interest in building computers, overclocking them
-      and actively involving myself in various design and coding activities sparked my enthusiasm into developing applications.
+      and actively involving myself in various design and coding activities, lead me to creating web applications.
 
       Now residing in the foot hills of the Alps, having jumped pond from the home of tea time and chequered trousers,
-      England, I find myself pursuing web development in the hopes of making my own small
-      mark on the internet highway.
-
-      I would consider myself a friendly and open minded person with great social skills and a willingness to learn new things.
+      England, I find myself pursuing web development in the hope, of making my own small mark on the internet highway.
 
 education:
     - degree: GCSE
@@ -66,13 +61,13 @@ education:
         - Chemistry / AS
         - English / AS
         - Photography / AS
-        - Web Development / BTEC
+        - Web Development / BTEC Diploma
 
     - degree: IHK Ausbildung
       university: Staatliche Berufsschule I Traunstein
       time: 2016 - 2019
       details: |
-        I completed my Ausbildung as Fachinformatiker für Anwendungsentwicklung (application development).
+        I completed my Ausbildung as "Fachinformatiker für Anwendungsentwicklung" (application development).
 
         - Written Examination (GA1, GA2, WiSo)
         - Spoken Examination
@@ -100,7 +95,9 @@ experiences:
       time: 2019
       company: umwerk systems GmbH
       details: |
-        Taking on the role of developer / administrator, my current roles include cloud administration and micro-app development.
+        As a system administrator, my current roles include developing and prototyping cloud infrastructures,
+        with an emphasis on resource scalability and monitoring. In addition, I have the role of developing
+        micro-services and applications for intercompany operations.
 
 awards:
     - award: Jack Petchey Foundation
@@ -143,62 +140,30 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
-        level: 95%
-
-      - name: Plone
+      - name: "Back-End: Python, Plone & Flask"
         level: 90%
 
-      - name: Flask
-        level: 80%
-
-      - name: HTML5 & CSS
-        level: 98%
-
-      - name: XML, XSLT, SQL
-        level: 50%
-
-      - name: JavaScript, jQuery
-        level: 80%
-
-      - name: PHPTAL, Jinja2
-        level: 98%
-
-      - name: YAML, TOML
-        level: 90%
-
-      - name: LESS, SCSS
-        level: 80%
-
-      - name: Ansible
-        level: 70%
-
-      - name: Blender 3D, Headus, Marmoset, xNormal
+      - name: "Templating: PHPTAL, Jinja2, Twig"
         level: 90%
 
       - name: Git (SVN), GitHub, GitLab
-        level: 98%
-
-      - name: Illustrator, Photoshop
-        level: 70%
-
-      - name: Gherkin, Selenium, RobotFramework
-        level: 60%
-
-      - name: SCRUM
         level: 90%
-
-      - name: RedMine, Linux Administration
-        level: 80%
 
       - name: Unit, Integration, Acceptance and Functional Testing Concepts
         level: 90%
 
-      - name: Apache2 Administration
+      - name: "Front-End: HTML5, CSS3 + LESS & JavaScript"
+        level: 80%
+
+      - name: Linux Administration
         level: 70%
 
-      - name: LDAP, React, Drupal
-        level: 20%
+      - name: Ansible, Terraform
+        level: 50%
+
+
+      - name: Gherkin, Selenium, RobotFramework
+        level: 40%
 
 misc:
     - role: Performing Artist
@@ -207,25 +172,8 @@ misc:
       details: |
         During my time at Sylvia Young, I learnt the basics of stage perfomance / improvisation.
 
-    - role: Conservationist
-      time: '2009'
-      company: Cherry Wood Project
-      details: |
-        Located in the small southern town of Bath in the United Kingdom, the CWP advocates
-        the preservation and development of local forests and agriculture.
-
-        During my time there, I assisted in forest management, roof building and repairing tools.
-
-    - role: Salesman
-      time: 2012 - 2013
-      company: St. Marcus Fine Foods
-      details: |
-        As my first paid job, St. Marcus offered me the opportunity to work front of house, serving and dealing with customers.
-        Due to the small nature of the business, I had to adapt to different roles - from sales to logistics and even as a butcher.
-
     - role: Extra
       time: '2013'
       company: Coca Cola - Wimbledon Film Studios
       details: |
-        At the beginning of 2013, I contributed to the production of a viral video for Coca Cola.
-        I spent a day at the Wimbledon Film Studios where I also had a short speaking role.
+        On-screen contribution towards the production of a viral Coca Cola advertisement.

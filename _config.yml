@@ -3,7 +3,7 @@ title: Resume - Jesse Stippel
 url: 'https://netroxen.github.io'
 baseurl: '/'
 description: The Resume of Jesse Ian Stippel
-theme_skin: berry
+theme_skin: ceramic
 chrome_mobile_color:
 
 # Tracker
@@ -13,7 +13,7 @@ analytics:
 sass:
   sass_dir: _sass
   style: compressed
-  
+
 # Build Settings
 compress-site: yes
 
