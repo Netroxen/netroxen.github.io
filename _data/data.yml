@@ -4,14 +4,14 @@ sidebar:
 
     # Profile Information
     name: Jesse Stippel
-    tagline: Full Stack Developer
+    tagline: DevOps Engineer
     avatar: profile.jpg
 
     # Sidebar Links
     email: jesse@skyeweb.de
     phone:
     website:
-    linkedin:
+    linkedin: jesse-stippel-523996271
     xing: Jesse_Stippel
     github: Netroxen
     gitlab:
@@ -26,28 +26,13 @@ sidebar:
         level: Native
 
       - idiom: German
-        level: Intermediate
-
-    interests:
-      - item: 3D Modelling
-        link: https://www.artstation.com/netroxen
-
-career-profile:
-    title: About
-    summary: |
-      Born as a 90's kid into a technological boom, my interest in building computers, overclocking them
-      and actively involving myself in various design and coding activities, lead me to creating web applications.
-
-      Now residing in the foot hills of the Alps, having jumped pond from the home of tea time and chequered trousers,
-      England, I find myself pursuing web development in the hope, of making my own small mark on the internet highway.
+        level: Proficient
 
 education:
     - degree: GCSE
       university: City of Westminster College
       time: 2010 - 2012
       details: |
-        I completed various subjects at GSCE level during this period.
-
         - Chemistry, Biology and Physics
         - English
         - Mathematics
@@ -56,8 +41,6 @@ education:
       university: William Morris Sixth Form
       time: 2012 - 2014
       details: |
-        I completed various subjects at A-Level during this period, as well as a BTEC diploma.
-
         - Chemistry / AS
         - English / AS
         - Photography / AS
@@ -67,44 +50,31 @@ education:
       university: Staatliche Berufsschule I Traunstein
       time: 2016 - 2019
       details: |
-        I completed my Ausbildung as "Fachinformatiker für Anwendungsentwicklung" (application development).
-
         - Written Examination (GA1, GA2, WiSo)
         - Spoken Examination
         - Project and Project Documentation
 
 experiences:
-    - role: Assistant
-      time: 2007 - 2008
-      company: Lemon Computing IT
-      details: |
-        During my time at Lemon Computing, I assisted in various office related tasks.
-        I also partook in various smaller server based excercises to gain some initial knowledge
-        in the area of Linux administration.
-
     - role: Full-Stack Developer
       time: 2015 - 2019
       company: operun GmbH
       details: |
-        During my time at operun, I trained as a full-stack developer, taking on various roles between
-        application development, migration projects and server management. I learnt skills primarily in the deployment
-        of Python based web applications using the Plone CMS platform. Other roles include Linux administrator, graphic designer
-        and blogger.
+        During my time at operun, I trained the necessary skills to develop and deploy Python based web applications.
+        Additional activities included server administration, configuring web-servers and CI/CD deployments in GitLab.
 
     - role: DevOps Engineer
       time: 2019
-      company: umwerk systems GmbH
+      company: ROSSY IT | umwerk systems GmbH
       details: |
-        As a system administrator, my current roles include developing and prototyping cloud infrastructures,
-        with an emphasis on resource scalability and monitoring. In addition, I have the role of developing
-        micro-services and applications for intercompany operations.
+        My current roles include deploying IaC solutions to AWS, with an emphasis on Kubernetes environments and monitoring in Grafana.
+        Additional activities include server administration and CI/CD deployments in GitLab, Bitbucket and GitHub.
 
 awards:
     - award: Jack Petchey Foundation
       time: '2013'
       details: |
         In February 2013, I received a Jack Petchey award for achievements in and out of school.
-        I was presented to the mayor of Kensington & Chelsea to recieve the award.
+        I was presented the award by the mayor of Kensington & Chelsea.
 
 projects:
     title: Contributions &amp; Projects
@@ -132,48 +102,11 @@ projects:
         link: "https://github.com/Netroxen/evie.cms"
         tagline: "A blazingly fast ASynchronous CMS built on Quart and ZODB."
 
-      - title: Scope Mod A3 (Mod)
-        link: "http://www.armaholic.com/page.php?id=22746"
-        tagline: "A successful mod released for Arma 3 that was featured on multiple YouTube videos and projects."
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: "Back-End: Python, Plone & Flask"
-        level: 90%
-
-      - name: "Templating: PHPTAL, Jinja2, Twig"
-        level: 90%
-
-      - name: Git (SVN), GitHub, GitLab
-        level: 90%
-
-      - name: Unit, Integration, Acceptance and Functional Testing Concepts
-        level: 90%
-
-      - name: "Front-End: HTML5, CSS3 + LESS & JavaScript"
-        level: 80%
-
-      - name: Linux Administration
-        level: 70%
-
-      - name: Ansible, Terraform
-        level: 50%
-
-
-      - name: Gherkin, Selenium, RobotFramework
-        level: 40%
-
 misc:
     - role: Performing Artist
       time: 2008 - 2010
       company: Sylvia Young Theatre School
-      details: |
-        During my time at Sylvia Young, I learnt the basics of stage perfomance / improvisation.
 
     - role: Extra
       time: '2013'
       company: Coca Cola - Wimbledon Film Studios
-      details: |
-        On-screen contribution towards the production of a viral Coca Cola advertisement.
