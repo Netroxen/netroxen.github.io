@@ -1,112 +1,111 @@
 sidebar:
-    about: True
-    education: True
+  about: True
+  education: True
 
-    # Profile Information
-    name: Jesse Stippel
-    tagline: DevOps Engineer
-    avatar: profile.jpg
+  # Profile Information
+  name: Jesse Stippel
+  tagline: DevOps Engineer
+  avatar: profile.jpg
 
-    # Sidebar Links
-    email: jesse@skyeweb.de
-    phone:
-    website:
-    linkedin: jesse-stippel-523996271
-    xing: Jesse_Stippel
-    github: Netroxen
-    gitlab:
-    bitbucket:
-    twitter:
-    stack-overflow:
-    codewars:
-    goodreads:
+  # Sidebar Links
+  email: jesse@skyeweb.de
+  phone:
+  website:
+  linkedin: jesse-stippel-523996271
+  xing: Jesse_Stippel
+  github: Netroxen
+  gitlab:
+  bitbucket:
+  twitter:
+  stack-overflow:
+  codewars:
+  goodreads:
 
-    languages:
-      - idiom: English
-        level: Native
+  languages:
+    - idiom: English
+      level: Native
 
-      - idiom: German
-        level: Proficient
+    - idiom: German
+      level: Proficient
 
 education:
-    - degree: GCSE
-      university: City of Westminster College
-      time: 2010 - 2012
-      details: |
-        - Chemistry, Biology and Physics
-        - English
-        - Mathematics
+  - degree: GCSE
+    university: City of Westminster College
+    time: 2010 - 2012
+    details: |
+      - Chemistry, Biology and Physics
+      - English
+      - Mathematics
 
-    - degree: A-Level + BTEC
-      university: William Morris Sixth Form
-      time: 2012 - 2014
-      details: |
-        - Chemistry / AS
-        - English / AS
-        - Photography / AS
-        - Web Development / BTEC Diploma
+  - degree: A-Level + BTEC
+    university: William Morris Sixth Form
+    time: 2012 - 2014
+    details: |
+      - Chemistry / AS
+      - English / AS
+      - Photography / AS
+      - BTEC Diploma in IT
 
-    - degree: IHK Ausbildung
-      university: Staatliche Berufsschule I Traunstein
-      time: 2016 - 2019
-      details: |
-        - Written Examination (GA1, GA2, WiSo)
-        - Spoken Examination
-        - Project and Project Documentation
+  - degree: IHK Ausbildung
+    university: Staatliche Berufsschule I Traunstein
+    time: 2016 - 2019
+    details: |
+      - Written Examination (GA1, GA2, WiSo)
+      - Spoken Examination
+      - Project and Project Documentation
 
 experiences:
-    - role: Full-Stack Developer
-      time: 2015 - 2019
-      company: operun GmbH
-      details: |
-        During my time at operun, I trained the necessary skills to develop and deploy Python based web applications.
-        Additional activities included server administration, configuring web-servers and CI/CD deployments in GitLab.
+  - role: Full-Stack Developer
+    time: 2015 - 2019
+    company: operun GmbH
+    details: |
+      During my time at operun, I trained the necessary skills to develop and deploy Python based web applications.
+      Additional activities included server administration, configuring web-servers and CI/CD deployments in GitLab.
 
-    - role: DevOps Engineer
-      time: 2019
-      company: ROSSY IT | umwerk systems GmbH
-      details: |
-        My current roles include deploying IaC solutions to AWS, with an emphasis on Kubernetes environments and monitoring in Grafana.
-        Additional activities include server administration and CI/CD deployments in GitLab, Bitbucket and GitHub.
+  - role: Administrator
+    time: 2019 - 2024
+    company: umwerk systems GmbH -> ROSSY IT GmbH
+    details: |
+      During my time at ROSSY IT, I worked on IaC solutions in AWS, with an emphasis on Kubernetes environments and monitoring in Grafana.
+      Additional activities include server administration and CI/CD deployments in GitLab, Bitbucket and GitHub Workflows.
+
+  - role: DevOps Engineer
+    time: 2024
+    company: Objectway GmbH
+    details: |
+      My current role at Objectway involves managing and developing scalable infrastructure solutions for financial systems.
+      Keywords: COBOL, GitLab CI, ArgoCD, Terraform, AWS and Kubernetes.
 
 awards:
-    - award: Jack Petchey Foundation
-      time: '2013'
-      details: |
-        In February 2013, I received a Jack Petchey award for achievements in and out of school.
-        I was presented the award by the mayor of Kensington & Chelsea.
+  - award: Jack Petchey Foundation
+    time: '2013'
+    details: |
+      In February 2013, I received a Jack Petchey award for achievements in and out of school.
+      I was presented the award by the mayor of Kensington & Chelsea.
 
 projects:
-    title: Contributions &amp; Projects
-    intro: >
-      Open Source is awesome, that's why I like to contribute and work on my own projects.
+  title: Contributions &amp; Projects
+  intro: >
+    Open Source is awesome, that's why I like to contribute and work on my own projects.
 
-    assignments:
-      - title: PyConWeb 2018 (Blog Post)
-        link: "https://www.operun.de/blog/pyconweb-2018"
-        tagline: "A writeup of the 2018 PyConWeb conference."
+  assignments:
+    - title: Plone Sidebar (collective.sidebar)
+      link: 'https://github.com/collective/collective.sidebar'
+      tagline: 'A reimagining of the Plone toolbar that reimplements its features in a modern design.'
 
-      - title: PyConWeb 2019 (Blog Post)
-        link: "https://www.operun.de/blog/pyconweb-2019"
-        tagline: "A writeup of the 2019 PyConWeb conference."
+    - title: Plone Tokyo (plonetheme.tokyo)
+      link: 'https://github.com/collective/plonetheme.tokyo'
+      tagline: 'A complete redesign and implementation of Bootstrap 4 into Plone.'
 
-      - title: Plone Sidebar (collective.sidebar)
-        link: "https://github.com/collective/collective.sidebar"
-        tagline: "A reimagining of the Plone toolbar that reimplements its features in a modern design."
-
-      - title: Plone Tokyo (plonetheme.tokyo)
-        link: "https://github.com/collective/plonetheme.tokyo"
-        tagline: "A complete redesign and implementation of Bootstrap 4 into Plone."
-
-      - title: Evie CMS (Personal Project)
-        link: "https://github.com/Netroxen/evie.cms"
-        tagline: "A blazingly fast ASynchronous CMS built on Quart and ZODB."
+    - title: Evie CMS (Personal Project)
+      link: 'https://github.com/Netroxen/evie.cms'
+      tagline: 'A blazingly fast ASynchronous CMS built on Quart and ZODB.'
 
 misc:
-    - role: Performing Artist
-      time: 2008 - 2010
-      company: Sylvia Young Theatre School
+  - role: Performing Artist
+    time: 2008 - 2010
+    company: Sylvia Young Theatre School
 
-    - role: Extra
-      time: '2013'
-      company: Coca Cola - Wimbledon Film Studios
+  - role: Extra
+    time: '2013'
+    company: Coca Cola - Wimbledon Film Studios
